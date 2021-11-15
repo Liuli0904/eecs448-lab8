@@ -1,0 +1,39 @@
+p
+{
+    background-color: aliceblue;
+    color:blueviolet;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 22pt;
+}
+body
+{
+    background-image: url(cat.gif); 
+    background-size: 100%;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-position:right bottom ;
+}
+p:hover
+{
+    background-color: chartreuse;
+}
+p.vedio
+{
+    background-color: cornflowerblue;
+    color: darkgoldenrod;
+}
+p.vedio:hover
+{
+    background-color: greenyellow;
+    color: indigo;
+}
+a
+{
+    background-color: darkgray;
+    color: darkkhaki;
+}
+a:hover
+{
+    background-color: darkslategray;
+    color: dodgerblue;
+}
